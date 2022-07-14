@@ -1,5 +1,22 @@
 body
 {
-    background-color: antiquewhite;
+    background-image: radial-gradient(circle at 4.55% -4.17%, #ffbe46 0, #ffc539 10%, #ffcc2d 20%, #ffd324 30%, #ffd91e 40%, #f3df1e 50%, #e2e424 60%, #cfe92f 70%, #bcee3b 80%, #a7f14a 90%, #91f559 100%);
     color: blue;    
+    margin: 0;
+}
+.titulo
+{
+    color: Red;
+    text-align: center;
+    text-shadow: black 2px 2px 4px;
+}
+.container
+{
+    border-radius: 5px;
+    margin: 10px 10px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: solid;
+    font-size: 18px;
 }
