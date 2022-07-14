@@ -2,4 +2,4 @@ GIT es una herramienta de control de versiones para el desarrollo de software
 Este es mi primera prueba de git
 Mi nombre es Gerardo De Los Santos
 Saludos para todos los desarrolladores
-Hablaremos tambien sobre su historia 
+Hablaremos tambien sobre su historia y su obra maestra
