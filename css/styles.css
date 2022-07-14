@@ -1,6 +1,6 @@
 body
 {
-    background-image: radial-gradient(circle at 4.55% -4.17%, #ffbe46 0, #ffc539 10%, #ffcc2d 20%, #ffd324 30%, #ffd91e 40%, #f3df1e 50%, #e2e424 60%, #cfe92f 70%, #bcee3b 80%, #a7f14a 90%, #91f559 100%);
+    background-image: white;
     color: blue;    
     margin: 0;
 }
@@ -19,4 +19,11 @@ body
     color: black;
     text-decoration: solid;
     font-size: 18px;
+}
+
+.entradas
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
